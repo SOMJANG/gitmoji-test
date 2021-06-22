@@ -1,5 +1,5 @@
 # gitmoji-test
-
+[![GITMOJI](/images/gitmoji.png)](https://gitmoji.dev/)
 Blog : https://bit.ly/3xE14he
 
 gitmoji 연습용 Repository
